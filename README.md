@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java Socket Programming**
 
-- 🌱 I’m currently learning **Kotlin, Android, Spring Framework**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android, Spring Framework**
 
 - 💬 Ask me about **Java, Python, Android, XML**
 
