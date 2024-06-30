@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java Socket Programming**
+- 🔭 I’m currently working on **Kotlin Jetpack Compose**
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android, Spring Framework**
 
