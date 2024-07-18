@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpermelkeli&show_icons=true&locale=en" alt="alpermelkeli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpermelkeli&" alt="alpermelkeli" /></p>
+![snake gif](https://github.com/alpermelkeli/alpermelkeli/blob/output/github-contribution-grid-snake.gif)
