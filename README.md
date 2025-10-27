@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper.</h1>
-<h3 align="center">A passionate Android & Backend developer from Türkiye.</h3>
+<h3 align="center">A passionate Mobile & Backend developer from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpermelkeli&label=Profile%20views&color=0e75b6&style=flat" alt="alpermelkeli" /> </p>
 
