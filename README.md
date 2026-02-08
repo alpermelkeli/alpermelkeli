@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Spring Boot, Kotlin Jetpack Compose, Android**
 
-- 🌱 I’m currently learning **Embeeded Software, C++**
+- 🌱 I’m currently learning **Go, Network**
 
-- 💬 Ask me about **Java, Python, Kotlin, Android, XML**
+- 💬 Ask me about **Java, Python, Kotlin, Android, XML, C++, Embbeded Systems**
 
 - 📫 How to reach me **alpermelkeli@gmail.com**
 
