@@ -70,15 +70,6 @@ Open-source, repository-driven **autonomous marketing agent**.
 
 </td>
 </tr>
-<tr>
-<td colspan="3" valign="top">
-
-### [NeetCode](https://neetcode.io/user/HiddenGoblin882)
-My **algorithms and data structures** practice. Solutions live in [dsa](https://github.com/alpermelkeli/dsa).
-<br/>`Python` `Algorithms`
-
-</td>
-</tr>
 </table>
 
 ## 📊 Stats
